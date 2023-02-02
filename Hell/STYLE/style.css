@@ -1,0 +1,153 @@
+
+
+
+.FIRST-PAGE{
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    
+
+}
+
+.SECOND-PAGE{
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    background-image: url(/Hell/images/BG.jpg);
+background-size: cover;    
+
+}
+
+.THIRD-PAGE{
+    background-image: url(/Hell/images/trashcore\ .jpg);
+    background-color: crimson;
+    text-align: center;
+    color: white;
+background-size: 100% 550%;}
+
+.FOURTH-PAGE{
+    background-image: url(/Hell/images/bg\ crazy.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.FIFTH-PAGE{
+    background-color: white;
+    color: BLACK;
+    text-align: center;
+}
+
+.SIXTH-PAGE{
+    background-image: url(/Hell/images/pony\ bg.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.FOGO{
+    padding-top: 60px;
+}
+
+H1{
+    font-size: 70px;
+}
+
+.Top-Container{
+    margin: auto;
+    padding-top: 30px;
+}
+
+.Middle-Container{
+   padding-top: 50px;
+}
+
+.WITCH{
+    height: 330px;
+
+margin-left: 400px;
+    float: left;
+}
+
+.JACK{
+    height: 300px;
+float: right;
+margin-right: 400px;
+}
+
+.GHOST{
+    height: 300px;
+
+}
+
+a:link{
+    color: black;
+}
+A:visited{
+    color: BLACK;
+}
+a:hover{
+    color:red
+}
+
+a:active{
+    color: pink;
+}
+
+.BABY{
+    height: 400px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.COCKROACH{
+    height: 400px;
+    float: right;
+    margin-top: 200px;
+
+}
+
+.CENTOPEIA{
+    height: 400px;
+padding-bottom: 700px;
+
+}
+
+
+.MULHER{
+    height: 400px;
+    float: right;
+    margin-top: 200px;
+}
+
+.ROSTO1{
+    height: 400px;
+    float: right;
+    margin-top: 200px;
+}
+
+.ROSTO2{
+    height: 400px;
+    float: right;
+    margin-top: 200px;
+}
+
+.EYES{
+    height: 400px;
+    float: right;
+    margin-top: 200px;
+}
+
+.PONY1{
+    height: 300px;
+    float: right;
+    margin-right: 400px;
+}
+
+.PONY2{
+    height: 330px;
+
+    margin-left: 400px;
+        float: left;
+
+}
